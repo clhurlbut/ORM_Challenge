@@ -8,6 +8,9 @@ AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 ```
+ ## 🖥️ Links 
+
+Demo Video: https://drive.google.com/file/d/1I2Gr0HVRJRG3E6i2CZABbFnCmGlbhzSy/view <br>
 
   ## 💽 Installation
    Clone the code to your computer and open the root folder in the command line. Run the following to install the node dependencies
@@ -31,14 +34,12 @@ SO THAT my company can compete with other e-commerce companies
 
   ## 💾 Screenshots
   ![Screenshot of App](./assets/allProductsScreenshot.jpg)
-  ![Screenshot of App](./assets/ORMchallenge1.jpg)
   ![Screenshot of App](./assets/newTagScreenshot.jpg)
+  ![Screenshot of App](./assets/api.categories.get.jpg)
+  ![Screenshot of App](./assets/api.categories.get.one.jpg)
 
-
- ## 🖥️ Links 
-#GitHub: https://github.com/clhurlbut/ORM_Challenge <br>
-#Demo Video: https://drive.google.com/file/d/1I2Gr0HVRJRG3E6i2CZABbFnCmGlbhzSy/view <br>
-
+   ## 🖥️ Links 
+GitHub: https://github.com/clhurlbut/ORM_Challenge <br>
 
   ## 💖 Credits
    Thank you to UCLA / Trilogy Bootcamp!
