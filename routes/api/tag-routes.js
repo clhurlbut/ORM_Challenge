@@ -10,7 +10,7 @@ router.get('/', (req, res) => {
     include:
     {
       model: Product,
-      attributes: ['product_name', 'category_id']
+      attributes: ['product_name']
     }
   }).then(dbTagData => res.json(dbTagData))
     .catch(err => {
@@ -28,7 +28,7 @@ router.get('/:id', (req, res) => {
     },
     include: {
       model: Product,
-      attributes: ['product_name', 'category_id']
+      attributes: ['product_name']
     }
   }).then(dbTagData => {
     if (!dbTagData) {
